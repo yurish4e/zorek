@@ -1,0 +1,97 @@
+header {
+      text-align: center;
+      background: url('../images/zorik_bg.jpg');
+      background-size:cover;
+      background-position:center;
+      color: white;
+    }
+    a {
+      color: white;
+      text-shadow: 0 0 10px rgba(250,250,250,0.8);
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+	  margin-bottom: 0px;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+    max-width: 500px;
+    padding: 5px 20px;
+    margin: 0 auto;
+        }
+	body {
+	background: url('../images/bg.png');
+	}
+  /*  @media (max-width: 500px) {
+      body {
+        background: black;  
+      }  
+    article {
+          color:white;  
+        }
+      h1 {
+        font-size: 36px;  
+      }
+      li {
+        display: block;
+        padding: 5px;
+      }
+    }
+    #alan {
+        font-size: 10px; 
+    }*/
+	
+	#content {
+	background: white;
+	max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    
+	
+  box-shadow:
+   0 1px 4px rgba(0, 0, 0, .3),
+   -23px 0 20px -23px rgba(0, 0, 0, .8),
+   23px 0 20px -23px rgba(0, 0, 0, .8),
+   0 0 40px rgba(0, 0, 0, .1) inset;
+	}
+	
+#space {
+width:432px;
+height:270px;
+margin: 0 auto;
+display:block;
+}	
+#elf {
+margin: 0 auto;
+font-size: 50px;
+color: black;
+text-shadow: 0 0 7px rgba(0,0,0,0.8);
+}
+#zagolovok {
+   
+    text-shadow: 0 0 10px rgba(250,250,250,0.8);
+}
+footer {
+    background: rgba(0,0,0,0.5);
+    text-align: center;
+    font-size: 12px;
+    height: 20px;
+    padding-top: 6px;
+    }
+
+#paris {
+    height: auto;
+    width: 460px;
+}
